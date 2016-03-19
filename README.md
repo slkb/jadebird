@@ -1,4 +1,4 @@
-# jadebird Demo
+# JadeBird Demo
 
 
 
