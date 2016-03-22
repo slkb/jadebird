@@ -5,9 +5,9 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 /**
- * ²âÊÔ ArrayList LinkedList²åÈëĞ§ÂÊ
+ * æµ‹è¯• ArrayList LinkedListæ’å…¥æ•ˆç‡
  * 
- * @author ÃÏ·²¶¦
+ * @author å­Ÿå‡¡é¼
  * @see ArrayList
  * @see LinkedList
  */
